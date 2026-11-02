@@ -28,6 +28,20 @@ The project uses the UCI Student Performance dataset. The analysis focuses on th
 
 These are associations in this dataset, not evidence that any factor causes a change in grades.
 
+## Visualizations
+
+### Final Grade vs. Second-Period Grade
+![Final Grade vs. Second-Period Grade](images/grade_vs_g2.png)
+
+### Final Grade vs. Number of Absences
+![Final Grade vs. Number of Absences](images/grade_vs_absences.png)
+
+### Final Grade by School
+![Final Grade by School](images/grade_by_school.png)
+
+### Final Grade by Past Class Failures
+![Final Grade by Past Class Failures](images/grade_by_failures.png)
+
 ## Project Structure
 - `data/raw/` — original dataset files
 - `notebooks/` — EDA notebook
