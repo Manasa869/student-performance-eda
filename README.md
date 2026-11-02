@@ -42,6 +42,15 @@ These are associations in this dataset, not evidence that any factor causes a ch
 ### Final Grade by Past Class Failures
 ![Final Grade by Past Class Failures](images/grade_by_failures.png)
 
+## What I Learned
+
+- Used **Python, Pandas, and NumPy** to load, inspect, and analyze a real-world dataset.
+- Practiced data cleaning and checking data types, missing values, and data consistency.
+- Used **Matplotlib and Seaborn** to create visualizations and explore patterns in student performance.
+- Compared final grades across study time, past class failures, and absences.
+- Summarized findings clearly and learned to distinguish **association from causation**.
+- Organized the project in a GitHub repository and documented the workflow, results, and limitations.
+
 ## Project Structure
 - `data/raw/` — original dataset files
 - `notebooks/` — EDA notebook
